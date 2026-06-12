@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://your-website-url.app/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://your-website-url.app/about-us/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://your-website-url.app/brands/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://your-website-url.app/categories/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://your-website-url.app/delivery-zones/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://your-website-url.app/faqs/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://your-website-url.app/feature-sections/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://your-website-url.app/privacy-policy/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://your-website-url.app/products/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://your-website-url.app/return-refund-policy/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://your-website-url.app/seller-register/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://your-website-url.app/shipping-policy/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://your-website-url.app/stores/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://your-website-url.app/terms-and-conditions/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <priority>0.4</priority>
+  </url>
+</urlset>
